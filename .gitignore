@@ -1,0 +1,4 @@
+/AWSLambdaStartAndStopInstances/bin
+/AWSLambdaStartAndStopInstances/obj
+/AWSLambdaStartAndStopInstances/*.user
+/.vs
